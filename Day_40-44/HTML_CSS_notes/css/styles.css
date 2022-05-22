@@ -1,0 +1,207 @@
+/*                          ID SELECTORS                            */
+
+
+/*                          TAG SELECTORS                            */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat-Black";
+}
+
+body {
+    font-family: "Montserrat";
+    text-align: center;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+em {
+    font-size: 2rem;
+}
+
+
+
+/*          Big Heading            */
+
+.big-heading {
+    font-size: 4rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+.section-heading {
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+/*  Navigation Bar  */
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+/* Changing the logos font */
+.navbar-brand {
+    font-family: Ubuntu;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+/*Padding left and right*/
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-family: Montserrat-Light;
+    font-size: 1.2rem;
+}
+
+
+/*   Download   Buttons     */
+.download-button {
+    font-size: 1.5rem;
+    margin: 5% 3% 5% 0;
+}
+
+/*Title Image*/
+.title-image {
+    transform: rotate(25deg);
+    width: 25%;
+    position: absolute;
+}
+
+/*Feature Section*/
+#features {
+    position: relative;
+}
+
+.feature-box {
+    padding: 5%;
+    z-index: 1;
+}
+
+.feature-title {
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+
+/*Button Section*/
+.btn {
+    margin-top: 50px;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+/*Hover Sudo Class for icons*/
+.icon:hover {
+    color: #ff4c68;
+}
+
+/*Testimonial Section*/
+.testimonial-image {
+    border-radius: 100%;
+    width: 20%;
+    margin: 20px;
+}
+
+.testimonial-text {
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-image-text {
+    padding-left: 50px;
+    margin-bottom: 5px;
+}
+
+
+
+
+/*          title section           */
+
+/*  parent <insert_space> child: means the container-fluid (child)
+is found in the #title (parent)     */
+#title .container-fluid {
+    padding: 3% 15% 7%;
+    text-align: left;
+}
+
+/* if it was .title.container-fluid then the two MUST be in the same
+class*/
+
+/*                  Testimonial Section                             */
+#testimonials {
+    /*ID Specified Background Color Overide id>Class>HTML Element BUT inline_CSS>>External_CSS*/
+    background-color: #ef8172;
+}
+
+
+/*                          Press Section                               */
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+
+
+/*                                      Pricing Section                         */
+
+#pricing {
+    padding: 100px;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+.price-text {
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+
+.social-icon {
+    margin: 20px 10px;
+}
+
+
+/*                      last section                                */
+
+/*              Sections                    */
+.colored-section {
+    background-color: #ff4c68;
+    /*Text color*/
+    color: #fff;
+}
+
+.white-section {
+    background-color: white;
+}
+
+
+@media (max-width: 989px) {
+
+    #title {
+        text-align: center;
+    }
+
+    .title-image {
+        position: static;
+        transform: rotate(0);
+
+    }
+}
