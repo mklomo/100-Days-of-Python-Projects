@@ -1,6 +1,8 @@
 """
+    
     This project uses Beautiful Soup and Selenium to create a list of rental apartments
     in Parsippany, NJ
+    
 """
 
 import os
