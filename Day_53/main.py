@@ -44,6 +44,7 @@ property_link = []
 
 
 while link_check:
+    
     # Set the link_check to False
     link_check = False
 
