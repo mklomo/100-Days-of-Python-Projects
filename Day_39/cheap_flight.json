@@ -1,0 +1,161 @@
+{
+    "search_id": "38e0ee1b-fb92-4556-b864-69f99f78cdef",
+    "time": 1,
+    "currency": "EUR",
+    "fx_rate": 1,
+    "data": [
+        {
+            "id": "073820a14a804a979934f367_0|073820a14a804a979934f367_1",
+            "flyFrom": "ACC",
+            "flyTo": "JFK",
+            "cityFrom": "Accra",
+            "cityCodeFrom": "ACC",
+            "cityTo": "New York",
+            "cityCodeTo": "NYC",
+            "countryFrom": {
+                "code": "GH",
+                "name": "Ghana"
+            },
+            "countryTo": {
+                "code": "US",
+                "name": "United States"
+            },
+            "type_flights": [
+                "deprecated"
+            ],
+            "nightsInDest": 22,
+            "quality": 1656.999505,
+            "distance": 8230.53,
+            "duration": {
+                "departure": 42300,
+                "return": 36000,
+                "total": 78300
+            },
+            "price": 1459,
+            "conversion": {
+                "EUR": 1459
+            },
+            "bags_price": {
+                "1": 0,
+                "2": 0
+            },
+            "baglimit": {
+                "hand_height": 35,
+                "hand_length": 56,
+                "hand_weight": 10,
+                "hand_width": 23,
+                "hold_dimensions_sum": 157,
+                "hold_height": 52,
+                "hold_length": 78,
+                "hold_weight": 23,
+                "hold_width": 27
+            },
+            "availability": {
+                "seats": 1
+            },
+            "routes": [
+                [
+                    "ACC",
+                    "JFK"
+                ],
+                [
+                    "JFK",
+                    "ACC"
+                ]
+            ],
+            "airlines": [
+                "DL"
+            ],
+            "route": [
+                {
+                    "id": "073820a14a804a979934f367_0",
+                    "combination_id": "073820a14a804a979934f367",
+                    "flyFrom": "ACC",
+                    "flyTo": "JFK",
+                    "cityFrom": "Accra",
+                    "cityCodeFrom": "ACC",
+                    "cityTo": "New York",
+                    "cityCodeTo": "NYC",
+                    "airline": "DL",
+                    "flight_no": 157,
+                    "operating_carrier": "DL",
+                    "operating_flight_no": "157",
+                    "fare_basis": "TL10J3B1",
+                    "fare_category": "M",
+                    "fare_classes": "E",
+                    "fare_family": "",
+                    "return": 0,
+                    "bags_recheck_required": false,
+                    "guarantee": false,
+                    "last_seen": "2021-06-17T15:49:11.000Z",
+                    "refresh_timestamp": "1970-01-01T00:00:00.000Z",
+                    "equipment": null,
+                    "vehicle_type": "aircraft",
+                    "local_arrival": "2022-03-22T05:00:00.000Z",
+                    "utc_arrival": "2022-03-22T09:00:00.000Z",
+                    "local_departure": "2022-03-21T21:15:00.000Z",
+                    "utc_departure": "2022-03-21T21:15:00.000Z"
+                },
+                {
+                    "id": "073820a14a804a979934f367_1",
+                    "combination_id": "073820a14a804a979934f367",
+                    "flyFrom": "JFK",
+                    "flyTo": "ACC",
+                    "cityFrom": "New York",
+                    "cityCodeFrom": "NYC",
+                    "cityTo": "Accra",
+                    "cityCodeTo": "ACC",
+                    "airline": "DL",
+                    "flight_no": 156,
+                    "operating_carrier": "DL",
+                    "operating_flight_no": "156",
+                    "fare_basis": "TL10J3B1",
+                    "fare_category": "M",
+                    "fare_classes": "E",
+                    "fare_family": "",
+                    "return": 1,
+                    "bags_recheck_required": false,
+                    "guarantee": false,
+                    "last_seen": "2021-06-17T15:49:11.000Z",
+                    "refresh_timestamp": "1970-01-01T00:00:00.000Z",
+                    "equipment": "76W",
+                    "vehicle_type": "aircraft",
+                    "local_arrival": "2022-04-14T13:45:00.000Z",
+                    "utc_arrival": "2022-04-14T13:45:00.000Z",
+                    "local_departure": "2022-04-13T23:45:00.000Z",
+                    "utc_departure": "2022-04-14T03:45:00.000Z"
+                }
+            ],
+            "booking_token": "BCKIeQjf63HrDpTA1OcRbvQpU--QdQZobOUDna3LFJEURS6JlBTNiLkNJZKicJaA-zK8pOUc3Kv37aI7P3FUkeUaaavqmr2MsyZN5uDbYwt9C9KodIB52sllfE7YEqUBuYz6lfg-cTn2Sa11voUuDWwKiA2e2JMlwtaOuRtuhh9YJLm6oti4e4CbrwHGvEnJS6HNvnaYCtP14oEPcmoWBTYSs5sWdZKKRFYXMRGFvap6TKaMOhLUHxa-8v846xkHKEV_w60jryWDO5SUTHll5P21ViBH2GBYxi8KryEgRYgen3fDFcWxYd5BbZ3iF2L_7B5Az0Bst2_2kvZug4xWt5OeFEzbukc0xnHIvBu9_zlRpzh5gC8cOn2oD4E3uvMSRMMYasWz59wq6jZrlXwZrI1_Ln0S0fUVFsEByykkCcTgO8FS4OqUCZmdo-74k5PQAgQsyBT_cdIRonNSMttS3OKu8-u1AZNu0jfgjqQOBkDD-uvOOpThJNw5ekquyhzfe74QxvjWfig7uLPkjuYjej94OlkqZlkvPGpxhVWz-fNpWKEENrzSd3Px7xoPA7JMrJwVdOeXnsjc_FvccJ0HZ2priA512beu0VQignFoopyf7dvlix1gP7_RayBkcLHwAtb1xau0D5GfwvIgkeyM25VO82QNNodRE_beYoUI4SoG0msVk3bYOciOlKaU1h8BwguH7bhcZHqETWzrhgfh5BW0qZ5xaHuBlZZpOe8g5x_nF8yqcURY3HFain6bivR37Ucdg2EYHtmNzrm3KzMoTzW-yuogComr-YkKyL8ChuClKTKWkAcxEelW0QndE6wxx",
+            "deep_link": "https://www.kiwi.com/deep?from=ACC&to=JFK&flightsId=073820a14a804a979934f367_0%7C073820a14a804a979934f367_1&price=1459&passengers=1&affilid=ghnerdmarvinsflightsearch&lang=en&currency=EUR&booking_token=BCKIeQjf63HrDpTA1OcRbvQpU--QdQZobOUDna3LFJEURS6JlBTNiLkNJZKicJaA-zK8pOUc3Kv37aI7P3FUkeUaaavqmr2MsyZN5uDbYwt9C9KodIB52sllfE7YEqUBuYz6lfg-cTn2Sa11voUuDWwKiA2e2JMlwtaOuRtuhh9YJLm6oti4e4CbrwHGvEnJS6HNvnaYCtP14oEPcmoWBTYSs5sWdZKKRFYXMRGFvap6TKaMOhLUHxa-8v846xkHKEV_w60jryWDO5SUTHll5P21ViBH2GBYxi8KryEgRYgen3fDFcWxYd5BbZ3iF2L_7B5Az0Bst2_2kvZug4xWt5OeFEzbukc0xnHIvBu9_zlRpzh5gC8cOn2oD4E3uvMSRMMYasWz59wq6jZrlXwZrI1_Ln0S0fUVFsEByykkCcTgO8FS4OqUCZmdo-74k5PQAgQsyBT_cdIRonNSMttS3OKu8-u1AZNu0jfgjqQOBkDD-uvOOpThJNw5ekquyhzfe74QxvjWfig7uLPkjuYjej94OlkqZlkvPGpxhVWz-fNpWKEENrzSd3Px7xoPA7JMrJwVdOeXnsjc_FvccJ0HZ2priA512beu0VQignFoopyf7dvlix1gP7_RayBkcLHwAtb1xau0D5GfwvIgkeyM25VO82QNNodRE_beYoUI4SoG0msVk3bYOciOlKaU1h8BwguH7bhcZHqETWzrhgfh5BW0qZ5xaHuBlZZpOe8g5x_nF8yqcURY3HFain6bivR37Ucdg2EYHtmNzrm3KzMoTzW-yuogComr-YkKyL8ChuClKTKWkAcxEelW0QndE6wxx",
+            "tracking_pixel": "",
+            "facilitated_booking_available": true,
+            "pnr_count": 1,
+            "has_airport_change": false,
+            "technical_stops": 0,
+            "virtual_interlining": false,
+            "transfers": [],
+            "local_arrival": "2022-03-22T05:00:00.000Z",
+            "utc_arrival": "2022-03-22T09:00:00.000Z",
+            "local_departure": "2022-03-21T21:15:00.000Z",
+            "utc_departure": "2022-03-21T21:15:00.000Z"
+        }
+    ],
+    "search_params": {
+        "flyFrom_type": "airport",
+        "to_type": "airport",
+        "seats": {
+            "passengers": 1,
+            "adults": 1,
+            "children": 0,
+            "infants": 0
+        }
+    },
+    "all_airlines": [],
+    "all_stopover_airports": [],
+    "del": 0,
+    "currency_rate": 1,
+    "connections": [],
+    "refresh": [],
+    "ref_tasks": []
+}
